@@ -10,3 +10,4 @@ src/
 │   ├── Inventory.java                     # Manages adding to inventory and buying system
 ├── books/                                 # Contains types of books that can be added to inventory  
 ```
+![Screenshot 2025-07-08 194324](https://github.com/user-attachments/assets/2763d1bc-7730-483e-8d3c-923a31466194)
