@@ -1,5 +1,5 @@
 ## Quantum Bookstore
-A Java-based online book store system with inventory and customer billing.
+A Java-based online book store system with inventory and customer shipping.
 ### 📂 Project Structure
 ```
 src/
